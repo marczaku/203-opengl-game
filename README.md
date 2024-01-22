@@ -38,7 +38,7 @@ But there's also an (advanced) option for importing 3D Models!
 - Released a Windows Build on itch.io
 - It has a visual state
 - The state changes based on input
-- There is a win condition and state
+- There is a win condition and state or progression
 - Documentation:
   - Video
   - 2 Screenshots
